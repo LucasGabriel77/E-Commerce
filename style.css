@@ -142,16 +142,7 @@ header nav ul li a {
     font-weight: bold;
 }
 
-footer {
-    background-color: rgb(0, 0, 0);
-    color: white;
-    padding: 20px;
-    text-align: center;
-}
 
-footer p {
-    font-size: 14px;
-}
 
 
 @media (max-width: 768px){

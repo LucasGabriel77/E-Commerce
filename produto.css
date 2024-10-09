@@ -110,7 +110,6 @@
     transform: scale(1.05);
   }
 
-
   @media (max-width: 768px){
     .orders-container {
         grid-template-columns: repeat(2, 1fr);
